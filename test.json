@@ -1,20 +1,88 @@
 {
-    "items": [
+  "items": [
+    {
+      "id": "1",
+      "img": "https://amp.dev/static/samples/img/product1_640x426.jpg",
+      "name": "Apple",
+      "price": "1.99",
+      "stars": "&#9733;&#9733;&#9733;&#9733;&#9733;",
+      "attribution": "visualhunt",
+      "url": "#",
+      "color": "green"
+    },
+    {
+      "id": "2",
+      "img": "https://amp.dev/static/samples/img/product2_640x426.jpg",
+      "name": "Orange",
+      "price": "0.99",
+      "stars": "&#9733;&#9733;&#9733;&#9733;&#9734;",
+      "attribution": "visualhunt",
+      "url": "#",
+      "color": "orange"
+    },
+    {
+      "id": "3",
+      "img": "https://amp.dev/static/samples/img/product3_640x426.jpg",
+      "name": "Pear",
+      "price": "1.50",
+      "stars": "&#9733;&#9733;&#9733;&#9734;&#9734;",
+      "attribution": "visualhunt",
+      "url": "#",
+      "color": "green"
+    },
+    {
+      "id": "4",
+      "img": "https://amp.dev/static/samples/img/product4_640x426.jpg",
+      "name": "Banana",
+      "price": "1.50",
+      "stars": "&#9733;&#9733;&#9733;&#9733;&#9733;",
+      "attribution": "pixabay",
+      "url": "#",
+      "color": "yellow"
+    },
+    {
+      "id": "5",
+      "img": "https://amp.dev/static/samples/img/product5_640x408.jpg",
+      "name": "Watermelon",
+      "price": "1.50",
+      "stars": "&#9733;&#9733;&#9733;&#9733;&#9733;",
+      "attribution": "pixabay",
+      "url": "#",
+      "color": "red"
+    },
+    {
+      "id": "6",
+      "img": "https://amp.dev/static/samples/img/product6_640x424.jpg",
+      "name": "Pear",
+      "price": "1.50",
+      "stars": "&#9733;&#9733;&#9733;&#9734;&#9734;",
+      "attribution": "visualhunt",
+      "url": "#",
+      "color": "green"
+    }
+  ],
+  "part_of_them": {
+    "pear_and_banana": [
       {
-        "title": "Awareness of Non-motor Symptoms",
-        "image": "https://cdn.mediflix.tv/preview/ccfdae82-9ed0-4b9a-83a0-695181ed6dc4.jpg"
+        "id": "3",
+        "img": "https://amp.dev/static/samples/img/product3_640x426.jpg",
+        "name": "Pear",
+        "price": "1.50",
+        "stars": "&#9733;&#9733;&#9733;&#9734;&#9734;",
+        "attribution": "visualhunt",
+        "url": "#",
+        "color": "green"
       },
       {
-        "title": "Awareness of Non-motor Symptoms",
-        "image": "https://cdn.mediflix.tv/preview/ccfdae82-9ed0-4b9a-83a0-695181ed6dc4.jpg"
-      },
-      {
-        "title": "Awareness of Non-motor Symptoms",
-        "image": "https://cdn.mediflix.tv/preview/ccfdae82-9ed0-4b9a-83a0-695181ed6dc4.jpg"
-      },
-      {
-        "title": "Awareness of Non-motor Symptoms",
-        "image": "https://cdn.mediflix.tv/preview/ccfdae82-9ed0-4b9a-83a0-695181ed6dc4.jpg"
+        "id": "4",
+        "img": "https://amp.dev/static/samples/img/product4_640x426.jpg",
+        "name": "Banana",
+        "price": "1.50",
+        "stars": "&#9733;&#9733;&#9733;&#9733;&#9733;",
+        "attribution": "pixabay",
+        "url": "#",
+        "color": "yellow"
       }
     ]
   }
+}
